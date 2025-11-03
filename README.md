@@ -12,7 +12,7 @@ Eun-Saem Choi, MD†, Sang-Hyuk Jung, PhD†, Young Mi Jung, MD, Chan-Wook Park,
 To generate enhanced cross-ancestry-based PRS with transferability, the genome-wide association study (GWAS) summary statistics from three worldwide biobanks, including the FinnGen Consortium (n=173,746; EUR), UKBB (n=220,617; EUR), and BioBank Japan (BBJ) (n=82,085; Asian), were used.
 
 ## PRS Generation
-PRS for PE was constructed using the Bayesian cross-ancestry polygenic prediction method, PRS-CSx (extension version of PRS-CS), which infers the posterior mean effect size of each variant using linkage disequilibrium reference panels by population and GWAS summary statistics from multiple populations. [1,2] The individual PRSs were computed from beta coefficients as the weighted sum of the risk alleles using PLINK 1.90 with the score command. [3]
+PRS for pre-eclampsia was constructed using the Bayesian cross-ancestry polygenic prediction method, PRS-CSx (extension version of PRS-CS), which infers the posterior mean effect size of each variant using linkage disequilibrium reference panels by population and GWAS summary statistics from multiple populations. [1,2] The individual PRSs were computed from beta coefficients as the weighted sum of the risk alleles using PLINK 1.90 with the score command. [3]
 
 
 ## References
