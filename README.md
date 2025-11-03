@@ -5,7 +5,7 @@ Eun-Saem Choi, MD†, Sang-Hyuk Jung, PhD†, Young Mi Jung, MD, Chan-Wook Park,
 
 ---
 
-### Preeclampsia Polygenic risk score (PRS)
+### Pre-eclampsia Polygenic risk score (PRS)
 > [prscsx-pe-multi.zip](https://github.com/normalhyuk/pe-prs-csx/blob/main/prs-model/prscsx-pe-multi.zip)
 
 ## Data Source (GWAS summary statistics)
